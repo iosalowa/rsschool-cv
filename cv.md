@@ -1,10 +1,11 @@
-# Vilena Vilinskaia
+# V****a V*********a
 
 #### Contact information:
 
   + +90 (535) 213-93-69
   + e-mail: iosalowa@gmail.com
- ***************************
+
+   ***************************
 
 ### Briefly About Myself:
     I have an extensive experience in IT, including implementation and support of IT systems and clients (reference and legal systems, 1C: - systems), as well as experience in implementing / upgrading IT infrastructures (worked on the implementation of electronic queue systems in Sberbank PJSC almost from the beginning of the project, carried out the modernization and creation of SCS at the sites of Sberbank PJSC, including the project activities. I know a variety of effective project technologies - practice Agile, PMI PMBOOK, Lean Six Sigma (I have a green belt).
@@ -51,8 +52,7 @@
 ***************************
 
 ### Courses:
-•	Responsive web-design, developer certification, March 2, 2023 (https://www.freecodecamp.org/certification/fcc463ffc26-41a4-47bb-8342-266da6bdcf59/responsive-web-design) 
-
++	Responsive web-design, developer certification, March 2, 2023 (https://www.freecodecamp.org/certification/fcc463ffc26-41a4-47bb-8342-266da6bdcf59/responsive-web-design) 
  + Training on the course "Basics of HTML”,  March 30, 2022
  + Training on the course “JavaScript”,  May 5, 2022
  + Participation in the seminar «Lean Six Sigma (LSS) and ITSM – process and service excellence, February 12, 2015
@@ -61,7 +61,5 @@
 ***************************
 ### Languages: 
 
- + English (A2):
-        ![english](/img/IMG_1934.jpg)
-
+ + English (B1)
  + French (A1)
